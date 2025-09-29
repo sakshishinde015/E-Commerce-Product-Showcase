@@ -21,30 +21,27 @@ TrendHive is a responsive e-commerce product showcase website built with HTML, C
   - Card footers for action buttons with icons.  
 
 ## Folder Structure
-trendhive/
--│
--├── index.html
--├── products.html
--├── cart.html
+```
+/trendhive/
+├── index.html
+├── products.html
+├── cart.html
 ├── wishlist.html
 ├── contact.html
 ├── about.html
-│
 ├── css/
 │   └── styles.css
-│
 ├── js/
-│   ├── index.js
 │   ├── products.js
 │   ├── cart.js
-│   └── wishlist.js
-│
+│   ├── wishlist.js
+│   ├── index.js
+
 ├── data/
 │   └── products.json
-│
-└── images/
-    └── (product images: tote.jpg, headphones.jpg, vase.jpg, smartwatch.jpg, jacket.jpg, scarf.jpg, charger.jpg, pillows.jpg, jeans.jpg, sunglasses.jpg, speaker.jpg, wall_art.jpg, sweater.jpg, wallet.jpg, lamp.jpg)
-
+├── images/
+│   └── (product images: tote.jpg, headphones.jpg, vase.jpg, smartwatch.jpg, jacket.jpg, scarf.jpg, charger.jpg, pillows.jpg, jeans.jpg, sunglasses.jpg, speaker.jpg, wall_art.jpg, sweater.jpg, wallet.jpg, lamp.jpg)
+```
 
 ## Technologies Used
 - **HTML5**: Page structure  
