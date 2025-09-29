@@ -45,6 +45,7 @@ trendhive/
 └── images/
     └── (product images: tote.jpg, headphones.jpg, vase.jpg, smartwatch.jpg, jacket.jpg, scarf.jpg, charger.jpg, pillows.jpg, jeans.jpg, sunglasses.jpg, speaker.jpg, wall_art.jpg, sweater.jpg, wallet.jpg, lamp.jpg)
 
+
 ## Technologies Used
 - **HTML5**: Page structure  
 - **CSS3**: Custom styling with CSS variables for theming  
