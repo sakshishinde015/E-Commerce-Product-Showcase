@@ -1,0 +1,20 @@
+[
+  { "id": 1, "name": "Classic T-Shirt", "description": "100% cotton t-shirt in multiple colors", "price": 25, "oldPrice": 30, "rating": 4.2, "image": "images/classic-T shirt.jpg", "category": "fashion", "labels": ["new"] },
+  { "id": 2, "name": "Smartphone", "description": "Latest 5G smartphone with OLED display", "price": 699, "rating": 4.7, "image": "images/smartphone.jpg", "category": "electronics", "labels": ["best-seller"] },
+  { "id": 3, "name": "Wall Lamp", "description": "Modern home decor wall lamp", "price": 45, "oldPrice": 60, "rating": 4.0, "image": "images/wall lamp.jpg", "category": "home_decor", "labels": [] },
+  { "id": 4, "name": "Eco-Friendly Tote Bag", "description": "Made from 100% recycled material.", "category": "fashion", "price": 29.99, "oldPrice": 39.99, "rating": 4.6, "image": "images/tote.jpg", "labels": ["sale", "best-seller"] },
+  { "id": 5, "name": "Wireless Headphones", "description": "Noise-canceling, long battery life.", "category": "electronics", "price": 89.99, "rating": 4.2, "image": "images/headphones.jpg", "labels": ["new"] },
+  { "id": 6, "name": "Ceramic Vase", "description": "Elegant handcrafted ceramic vase.", "category": "home_decor", "price": 45.00, "rating": 4.0, "image": "images/vase.jpg", "labels": [] },
+  { "id": 7, "name": "Smartwatch", "description": "Fitness tracking and notifications.", "category": "electronics", "price": 129.99, "oldPrice": 149.99, "rating": 4.5, "image": "images/smartwatch.jpg", "labels": ["sale"] },
+  { "id": 8, "name": "Leather Jacket", "description": "Premium leather, stylish design.", "category": "fashion", "price": 199.99, "rating": 4.8, "image": "images/jacket.jpg", "labels": ["best-seller"] },
+  { "id": 9, "name": "Silk Scarf", "description": "Soft and luxurious silk scarf.", "category": "accessories", "price": 24.99, "oldPrice": 34.99, "rating": 4.3, "image": "images/scarf.jpg", "labels": ["sale", "new"] },
+  { "id": 10, "name": "Portable Charger", "description": "High-capacity power bank for on-the-go charging.", "category": "electronics", "price": 39.99, "rating": 4.1, "image": "images/charger.jpg", "labels": [] },
+  { "id": 11, "name": "Throw Pillow Set", "description": "Set of two cozy decorative pillows.", "category": "home_decor", "price": 59.99, "oldPrice": 79.99, "rating": 4.4, "image": "images/pillows.jpg", "labels": ["sale"] },
+  { "id": 12, "name": "Denim Jeans", "description": "Comfortable slim-fit denim jeans.", "category": "fashion", "price": 49.99, "rating": 4.7, "image": "images/jeans.jpg", "labels": ["best-seller"] },
+  { "id": 13, "name": "Sunglasses", "description": "Stylish UV-protective sunglasses.", "category": "accessories", "price": 19.99, "rating": 4.0, "image": "images/sunglasses.jpg", "labels": ["new"] },
+  { "id": 14, "name": "Bluetooth Speaker", "description": "Portable speaker with crisp sound quality.", "category": "electronics", "price": 69.99, "oldPrice": 89.99, "rating": 4.6, "image": "images/speaker.jpg", "labels": ["sale"] },
+  { "id": 15, "name": "Wall Art Print", "description": "Modern abstract art print for home decor.", "category": "home_decor", "price": 34.99, "rating": 4.2, "image": "images/wall_art.jpg", "labels": [] },
+  { "id": 16, "name": "Knit Sweater", "description": "Cozy knit sweater for all seasons.", "category": "fashion", "price": 59.99, "rating": 4.5, "image": "images/sweater.jpg", "labels": ["new"] },
+  { "id": 17, "name": "Leather Wallet", "description": "Sleek leather wallet with multiple compartments.", "category": "accessories", "price": 29.99, "oldPrice": 39.99, "rating": 4.3, "image": "images/wallet.jpg", "labels": ["sale"] },
+  { "id": 18, "name": "Table Lamp", "description": "Modern table lamp with adjustable brightness.", "category": "home_decor", "price": 79.99, "rating": 4.4, "image": "images/lamp.jpg", "labels": ["best-seller"] }
+]
